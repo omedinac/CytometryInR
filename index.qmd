@@ -16,6 +16,8 @@ Cytometry in R is a free weekly mini-course being offered both in-person and onl
 
 This course is a passion project arising from our desire to contribute back to the community. We are excited that so many of you have chosen to sign up, and look forward to helping you get started on your own learning journeys.
 
+For more information on topics-covered, please see our [schedule](/Schedule.qmd).
+
 If you did not previously complete the interest form, and would like to be added to our mailing list, please complete the form [here](https://docs.google.com/forms/d/e/1FAIpQLScPK4V_WNSgQvZNq7aIHpoiX8pi3kiuCfI0Tp7hQkVJS3HPtQ/viewform?usp=publish-editor)
 
 <br>
